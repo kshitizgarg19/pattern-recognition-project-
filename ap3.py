@@ -152,7 +152,7 @@ st.markdown(
     """
     <div style="text-align: center; color: gray; font-size: small;">
         Designed and maintained by <b>Kshitiz Garg</b> | Roll No: 2K22/EE/152 <br>
-        Co-designed with <b>Dhruv Singla</b> | Roll No: 2K22/EE/98 <br>
+        
         Delhi Technological University <br>
         <a href="https://www.linkedin.com/in/kshitiz-garg-898403207/" target="_blank" style="color: cyan;">LinkedIn</a>
     </div>
