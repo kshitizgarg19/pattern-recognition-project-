@@ -146,13 +146,11 @@ if st.button("Predict"):
         cluster = model.predict(input_df)[0]
         st.write(f"**Predicted Cluster:** {cluster}")
 
-# Footer
 st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: gray; font-size: small;">
         Designed and maintained by <b>Kshitiz Garg</b> | Roll No: 2K22/EE/152 <br>
-        
         Delhi Technological University <br>
         <a href="https://www.linkedin.com/in/kshitiz-garg-898403207/" target="_blank" style="color: cyan;">LinkedIn</a>
     </div>
